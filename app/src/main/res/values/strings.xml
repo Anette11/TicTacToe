@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="congratulations">Congratulations!!!</string>
+    <string name="you_won">You won!!!</string>
+    <string name="play">Play</string>
+    <string name="exit">Exit</string>
+    <string name="sorry">Sorry!</string>
+    <string name="phone_won">Phone won!</string>
+    <string name="no_winner">No winner</string>
+    <string name="note_of_admiration">!!!</string>
+</resources>
